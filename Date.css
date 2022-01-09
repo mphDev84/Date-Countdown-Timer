@@ -37,6 +37,7 @@
     transition: all .35s;
     padding-top: 0.5em;
     background-color: rgb(241, 189, 110);
+    cursor: pointer;
   }
   
   a span{
